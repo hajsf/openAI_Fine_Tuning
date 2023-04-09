@@ -1,3 +1,6 @@
 pandas
 openai
 openai-whisper
+langchain
+chromadb
+pypdf
