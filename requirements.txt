@@ -4,3 +4,4 @@ openai-whisper
 langchain
 chromadb
 pypdf
+llama-index
